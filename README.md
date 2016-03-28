@@ -1,0 +1,2 @@
+# pocetak
+sta i kako
